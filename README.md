@@ -1,2 +1,2 @@
 # Data-Science-final
-End of semester R scripts and writeups..
+End of semester R scripts and writeups.
