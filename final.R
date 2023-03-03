@@ -2,7 +2,7 @@
 library(readxl)
 library(tidyverse)
 library(dplyr)
-
+# 
 work <- read_excel(("D:/R/Assignment2/Assignment2_dataset.xlsx"))
 View(work)
 # Question one(1)
